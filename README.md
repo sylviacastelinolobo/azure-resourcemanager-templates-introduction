@@ -1,0 +1,1 @@
+# azure-resourcemanager-templates-introduction
