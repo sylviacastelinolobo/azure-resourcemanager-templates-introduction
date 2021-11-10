@@ -5,7 +5,7 @@
         {
             "type": "Microsoft.Storage/storageAccounts",
             "apiVersion":"2019-04-01",
-            "name": "amdemostorageintro01",
+            "name": "sldemo02",
             "location": "northeurope",
             "sku": {
                 "name": "Standard_LRS"
