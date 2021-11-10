@@ -1,4 +1,4 @@
-$rg = 'arm-introduction-01'
+$rg = 'sldemo02'
 New-AzResourceGroup -Name $rg -Location northeurope -Force
 
 New-AzResourceGroupDeployment `
